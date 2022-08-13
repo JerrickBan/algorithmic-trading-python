@@ -2,6 +2,8 @@
 
 This repository
 
+link: https://www.youtube.com/watch?v=xfzGZB4HhEE
+
 ## Course Outline
 
 * Section 1: Algorithmic Trading Fundamentals
